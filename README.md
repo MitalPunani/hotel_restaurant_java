@@ -19,4 +19,4 @@ This is a simple Java-based console application for managing food orders in a ho
    java Hotel
 
 ##  Author
-Mital Punani
+MitalPunani
