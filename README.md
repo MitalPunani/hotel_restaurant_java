@@ -1,18 +1,22 @@
-## Getting Started
+#  Hotel & Restaurant Management System (Java)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+##  Description
+This is a simple Java-based console application for managing food orders in a hotel or restaurant.
 
-## Folder Structure
+##  Features
+- Display menu
+- Take user order
+- Calculate total bill
+- Multiple item selection
 
-The workspace contains two folders by default, where:
+##  Technologies Used
+- Java
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+##  How to Run
+1. Compile the program:
+   javac Hotel.java
+2. Run the program:
+   java Hotel
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+##  Author
+Mital Punani
