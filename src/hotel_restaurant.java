@@ -96,7 +96,7 @@ class foodbooking extends booking {
             System.out.println("Quantity : " + qty);
             System.out.println("Total Bill : " + total);
 
-            return total; // ✅ Return total here
+            return total; //  Return total here
         } else {
             System.out.println("Invalid Food Selection!");
             return 0; // return 0 if invalid
